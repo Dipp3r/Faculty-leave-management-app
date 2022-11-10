@@ -19,7 +19,7 @@ Building a mobile application that aims to enable faculties to apply for leave. 
   
     ![menu](https://user-images.githubusercontent.com/91364256/201155010-bbd91824-1b3f-49b2-98dd-465b53681e5c.gif)
 
-- **Decorative images that are made able to scroll horizontally**
+- **Horizontally scrollable decorative images**
 
     ![decorative](https://user-images.githubusercontent.com/91364256/201149869-af61a754-af85-4248-903c-0603a98932f3.gif)
 

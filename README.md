@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/91364256/200879509-8e3c1ace-7a55-41e5-8719-190e1cb33a86.png) 
+<img src="https://user-images.githubusercontent.com/91364256/200879509-8e3c1ace-7a55-41e5-8719-190e1cb33a86.png" align="right"/>
 
 # Faculty Leave Management App 
 

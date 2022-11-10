@@ -9,7 +9,7 @@ Building a mobile application that aims to enable faculties to apply for leave. 
 
 # Features and functions
 
-- The visibility of notification can be toggled
+- Toggling of visibility of notification 
 
     ![notif toggle](https://user-images.githubusercontent.com/91364256/200879052-667c5291-ec44-4793-a050-ab62827ea06a.gif)
 

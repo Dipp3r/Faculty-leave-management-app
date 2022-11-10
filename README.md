@@ -2,7 +2,7 @@
 
 # Faculty Leave Management App 
 
-Building a mobile application that aims to enable faculties to apply for leave. Allowing admin to see the list of applications, details of each faculty’s previous leave and an option to accept/decline the leave applications. Admin is given the permissions to register new faculties, see the performance of each department and change the timetable of substitution teacher and the faculty taking leave.  
+A mobile application that aims to enable faculties to apply for leave. Allowing admin to see the list of applications, details of each faculty’s previous leave and an option to accept/decline the leave applications. Admin is given the permissions to register new faculties, see the performance of each department and change the timetable of substitution teacher and the faculty taking leave.  
 
 - This technique will improve the procedure of leave, the executives inside association by sparing time and assets and furthermore, lessens the administrative work and keep up record in a productive and orderly manner. 
 - It diminishes the administrative work and empowers simpler record support. 
